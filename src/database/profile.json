@@ -1,0 +1,20 @@
+{
+    "username": "vicario",
+    
+    "country": "Mexico",
+    "city": "Mexico_City",
+
+    "categories": {
+        "work": {
+            "slack": "https://slack.com/"
+        },
+        "news": {
+            "SlashDot": "https://slashdot.org/",
+            "The Brutalist Report": "https://brutalist.report/"
+        },
+        "social": {
+            "github": "https://github.com",
+            "reddit": "https://reddit.com"
+        }
+    }
+}
